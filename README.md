@@ -20,7 +20,8 @@ B.  AttackStrategy
 
 
 Refactor the existing codes and provide the UML Diagram:
-```public class Character {
+```
+public class Character {
     private String type;
 
     public Character(String type) {
