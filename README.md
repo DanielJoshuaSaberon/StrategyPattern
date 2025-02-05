@@ -20,7 +20,6 @@ B.  AttackStrategy
 
 
 Refactor the existing codes and provide the UML Diagram:
-
 ```public class Character {
     private String type;
 
@@ -50,4 +49,9 @@ Refactor the existing codes and provide the UML Diagram:
             System.out.println("Using a shield to defend!"");
         }
     }
-}```
+}
+```
+
+#UML Diagram
+![Blank diagram](https://github.com/user-attachments/assets/483c72dd-90ba-434d-9b92-4c313644f8cc)
+
